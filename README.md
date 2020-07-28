@@ -1,6 +1,6 @@
-### Hi there 👋, my name is Ankit
-![](https://art.ngfiles.com/images/788000/788490_8bitsigma_vaporwave-banner.gif?f1547682746)
 
+![](https://art.ngfiles.com/images/788000/788490_8bitsigma_vaporwave-banner.gif?f1547682746)
+### Hi there 👋, my name is Ankit
 I am a full stack developer looking to solve problems and develop great things through code. Graduated with a Bachelor's in Computer science and engineering.
 
 Skills: C++ / Python / React / Gatsby / Node / MongoDB / MySQL
