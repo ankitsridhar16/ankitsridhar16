@@ -8,7 +8,7 @@ Skills: Go / C++ / Python / React / Gatsby / Next / Redis / MySQL / Memcached / 
 
 - 🔭 I’m currently working on Go , React and PHP 
 - 🌱 I’m currently learning Kubernetes
-- 💬 Ask me about Golang, C++, Python, JavaScript 
+- 💬 Ask me about Go, C++, Python, JavaScript 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/ankitsridhar16)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/dfizzbit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/ankitsridhar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/dfizzbit/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://www.ankitsridhar.in)  
