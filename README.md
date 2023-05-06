@@ -3,7 +3,7 @@
 ### I am Ankit
 A Polyglot engineer who likes to build and contribute to projects in TypeSctipt, Go , PHP, Java and C++
 
-<b> <i>Reach me - </i><b> me@ankitsridhar.in
+<b> <i>mail - </i><b> me@ankitsridhar.in
 
 - 🔭 I’m currently working on TS and Go
 - 🌱 I’m currently learning Rust
