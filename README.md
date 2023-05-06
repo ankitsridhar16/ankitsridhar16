@@ -1,6 +1,6 @@
 
 ### Hi there 👋 
-## I am Ankit
+### I am Ankit
 A Polyglot engineer who likes to build and contribute to projects in TypeSctipt, Go , PHP, Java and C++
 
 <b> <i>Reach me - </i><b> me@ankitsridhar.in
